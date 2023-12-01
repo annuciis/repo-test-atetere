@@ -1,1 +1,5 @@
-test
+log_worker.yaml
+config.ini
+log_migrate_db.yaml
+log/*.log
+log/*.log.*
